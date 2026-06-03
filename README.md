@@ -1,5 +1,4 @@
 # Mahelet Yared
-`OPERATIONAL STATE: ACTIVE // FOCUS: ADVERSARIAL DEFENSE & MODERN WEB SYSTEMS`
 
 ### ⚡ MISSION PROFILE
 I engineer scalable, high-performance web applications using an offensive security mindset. By combining full-stack development expertise with modern penetration testing concepts, I actively eliminate vulnerabilities during the architectural and coding phases rather than treating security as an afterthought.
@@ -8,9 +7,7 @@ I engineer scalable, high-performance web applications using an offensive securi
 
 ### 🔥 SYSTEM METRICS
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahi122130&layout=compact&theme=dark&hide_border=true&v=2)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
