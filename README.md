@@ -35,8 +35,6 @@ System_Status: "Operational // Continual Optimization Mode"
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkias)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Silver%20League-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
----
-
 ### 🛠️ CORE PLATFORM INFRASTRUCTURE
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
