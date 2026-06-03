@@ -7,9 +7,13 @@ I engineer scalable, high-performance web applications using an offensive securi
 ---
 
 ### 🔥 SYSTEM METRICS
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true)
+### 🔥 SYSTEM METRICS
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi122130&layout=compact&theme=dark&hide_border=true)
+### 🔥 SYSTEM METRICS
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahi122130&layout=compact&theme=dark&hide_border=true&v=2)
 
 ---
 
@@ -32,7 +36,7 @@ Engineering_Capabilities:
     Operational_Environments: ["Linux CLI", "Secure Environment Variable Isolation"]
 🔥 SYSTEM METRICS
 
-TryHackMe_Rank: "Silver League Competitor // Top 2% Globally"
+TryHackMe_Rank: "Silver League "
 Security_Focus: "OWASP Top 10 Mitigation & Adversarial Defense"
 Active_Projects: "ElectroDiag AI (Multimodal Hardware RAG System)"
 Data_Architecture: "Prisma 6 Integration // Relational & Document Mapping"
