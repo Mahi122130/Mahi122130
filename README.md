@@ -7,9 +7,6 @@ I engineer scalable, high-performance web applications using an offensive securi
 ---
 
 ### 🔥 SYSTEM METRICS
-### 🔥 SYSTEM METRICS
-
-### 🔥 SYSTEM METRICS
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2)
 
