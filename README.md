@@ -29,6 +29,7 @@ Security_Focus: "OWASP Top 10 Mitigation & Adversarial Defense"
 Active_Projects: "ElectroDiag AI (Multimodal Hardware RAG System)"
 Data_Architecture: "Prisma 6 Integration // Relational & Document Mapping"
 System_Status: "Operational // Continual Optimization Mode"
+```
 ### 🌐 NETWORK LINKS & CORE ENGINES
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahelet-yared-539682369)
