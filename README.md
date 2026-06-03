@@ -5,12 +5,6 @@ I engineer scalable, high-performance web applications using an offensive securi
 
 ---
 
-### 🔥 SYSTEM METRICS
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahi122130&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-
----
-
 ### 🏗️ PRODUCTION COMPONENT REGISTRY & SKILL FOOTPRINT
 
 ```yaml
