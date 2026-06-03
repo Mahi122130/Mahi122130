@@ -30,3 +30,10 @@ Engineering_Capabilities:
     Access_Control_Architecture: ["Role-Based Access Control (RBAC)", "JWT Session Hardening"]
     Input_Handling: ["Strict Type-Validation (Zod)", "Contextual Output Encoding"]
     Operational_Environments: ["Linux CLI", "Secure Environment Variable Isolation"]
+🔥 SYSTEM METRICS
+
+TryHackMe_Rank: "Silver League Competitor // Top 2% Globally"
+Security_Focus: "OWASP Top 10 Mitigation & Adversarial Defense"
+Active_Projects: "ElectroDiag AI (Multimodal Hardware RAG System)"
+Data_Architecture: "Prisma 6 Integration // Relational & Document Mapping"
+System_Status: "Operational // Continual Optimization Mode"
