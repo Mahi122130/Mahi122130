@@ -34,7 +34,7 @@ System_Status: "Operational // Continual Optimization Mode"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahelet-yared-539682369)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkias)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Silver%20League-blue?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/mahiszhaa)
 
 ### 🛠️ CORE PLATFORM INFRASTRUCTURE
 <p align="left">
