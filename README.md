@@ -44,4 +44,4 @@ System_Status: "Operational // Continual Optimization Mode"
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-![Contribution Rhythm](https://raw.githubusercontent.com/Mahi122130/Mahi122130/main/assets/insights/metrics-rhythm.svg)
+
